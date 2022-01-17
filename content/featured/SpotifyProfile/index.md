@@ -1,15 +1,13 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Solve problem with dlops'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/wholespace/ai-landing'
+external: 'https://dlopsai.netlify.app/'
 tech:
   - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Node
+  - Next.js
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+We are a network of designers, software engineers, data scientists and marketers whose passion for digital technologies binds us together to form this network of talents with abundant and diverse capabilities to tackle the most complex applications.
