@@ -107,7 +107,6 @@ const Footer = () => {
       <StyledCredit tabindex="-1">
         <a href="https://github.com/wholespace/portfolio">
           <div>Designed &amp; Built by Naruhito Takei</div>
-
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
               <span>
