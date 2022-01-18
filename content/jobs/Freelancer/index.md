@@ -1,9 +1,9 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
+date: '2021-5-1'
+title: 'Full-Stack Developer'
+company: 'Freelancer'
+location: 'Udine, Italy'
+range: 'April 2021 - Present'
 url: 'https://starry.com/'
 ---
 
