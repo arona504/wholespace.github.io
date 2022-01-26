@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://wholespace.gatsbyjs.io/sitemap.xml
+Host: https://wholespace.gatsbyjs.io
