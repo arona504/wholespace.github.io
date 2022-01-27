@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/wholespace/portfolio/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/wholespace/wholespace.github.io/master/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   Naruhito Takei 
@@ -8,7 +8,7 @@
   The fourth iteration of <a href="https://wholespace.github.io" target="_blank">wholespace.gatsbyjs.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
-![demo](https://raw.githubusercontent.com/wholespace/portfolio/main/src/images/picture.png)
+![demo](https://raw.githubusercontent.com/wholespace/wholespace.github.io/master/src/images/picture.png)
 
 ## 🚨 Forking this repo (please read!)
 
