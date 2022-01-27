@@ -1,11 +1,11 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/wholespace/portfolio/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   Naruhito Takei 
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://wholespace.gatsbyjs.io" target="_blank">wholespace.gatsbyjs.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The fourth iteration of <a href="https://wholespace.github.io" target="_blank">wholespace.gatsbyjs.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
 ![demo](https://raw.githubusercontent.com/wholespace/portfolio/main/src/images/picture.png)
@@ -20,7 +20,7 @@ Please also note that I did not build this site with the intention of it being a
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [wholespace.gatsbyjs.com](https://wholespace.gatsbyjs.com). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [wholespace.github.com](https://wholespace.github.com). Thanks!
 
 ## 🛠 Installation & Set Up
 
