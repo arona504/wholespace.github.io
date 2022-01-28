@@ -7,7 +7,7 @@ tech:
   - Algolia
   - WordPress
   - PHP
-company: 'Upstatement'
+company: ''
 showInProjects: true
 ---
 

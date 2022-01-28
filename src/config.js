@@ -7,12 +7,12 @@ module.exports = {
       url: 'https://github.com/wholespace',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/wholespace',
+      name: 'Telegram',
+      url: 'https://t.me/wholespace1',
     },
     {
-      name: 'Twitter',
-      url: 'https://twitter.com/wholespace',
+      name: 'Discord',
+      url: 'https://discord.com/users/931617775628206210',
     },
     {
       name: 'Linkedin',

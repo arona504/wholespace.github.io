@@ -77,7 +77,7 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://api.github.com/repos/wholespace/portfolio')
+    fetch('https://api.github.com/repos/wholespace/wholespace.github.io')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
@@ -105,7 +105,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/wholespace/portfolio">
+        <a href="https://github.com/wholespace/wholespace.github.io">
           <div>Designed &amp; Built by Naruhito Takei</div>
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
